@@ -1,0 +1,9 @@
+.copyBtn{
+    transform: background 0.4s all;
+    font-weight: 550;
+    font-size: 1rem;
+    &:hover{
+        background-color: rgb(1, 1, 162);
+    }
+    
+}
